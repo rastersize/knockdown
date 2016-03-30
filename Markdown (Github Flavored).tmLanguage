@@ -759,7 +759,7 @@
 		<key>fenced-obj-c</key>
 		<dict>
 			<key>begin</key>
-			<string>(\s*```)\s*(objective-c)\s*$</string>
+			<string>(\s*```)\s*(obj(ective-)?c)\s*$</string>
 			<key>captures</key>
 			<dict>
 				<key>1</key>
